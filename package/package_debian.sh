@@ -20,6 +20,13 @@ MANUALS="Notes.txt"
 
 BUILDOPTS=" -B --quiet --quiet"
 BUILDDATE=`date -R`
+# seriously what is this 
+# 
+# 
+# https://sourceforge.net/projects/lazarus/files/
+#
+#
+#
 LAZ_DIR=/home/dbannon/lazarus/lazarus_1_8_4
 
 # ----------------------
